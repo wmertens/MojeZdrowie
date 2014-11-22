@@ -1,0 +1,20 @@
+{
+  "name": "MojeZdrowie",
+  "version": "1.0.0",
+  "description": "Search health-related info from Polish government",
+  "main": "nazdrowie.coffee",
+  "dependencies": {
+    "async": "^0.9.0",
+    "coffee-script": "^1.8.0",
+    "htmlparser2": "^3.8.2",
+    "log4js": "^0.6.21",
+    "q": "^1.1.1",
+    "q-io": "^1.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
